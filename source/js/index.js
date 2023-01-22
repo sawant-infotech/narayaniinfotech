@@ -518,7 +518,7 @@ function footerDisplay(id) {
         '<hr class="text-light">' +
         // for mobile
         '<div class="text-center text-light">© All rights reserved. <br> Developed by <a' +
-        ' class="text-light" href="https:sawant-infotech.github.io/" target="_blank" rel="noopener">Sawant Infotech</a>' +
+        ' class="text-light" href="https://sawant-infotech.github.io/" target="_blank" rel="noopener">Sawant Infotech</a>' +
         '</div>' +
         '</footer>'
 
