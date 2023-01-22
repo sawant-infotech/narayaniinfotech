@@ -16,7 +16,7 @@ function loadData(__name__){
 }
 function chekWebsite(){
     // false - website works fine
-    if(true){
+    if(false){
         var body = '' +
         '<h1 style="height:100vh; width:100%; display:flex; justify-content: center; align-items:center;"><span>Temporary Down...</span></h1>';
         document.getElementById("myBody").innerHTML = body;
@@ -907,7 +907,7 @@ function aboutCeoDisplay(id){
         '        </div> '+
         '        <div class="container"> '+
         '            <div class="container d-flex justify-content-center align-items-center"> '+
-        '                <span class="glowbutton"> <img src="https://shubhams1401-sawant.github.io/author.jpeg" alt="ceo" '+
+        '                <span class="glowbutton"> <img src="https://narayaniinfotech.github.io/source/author.jpg" alt="ceo" '+
         '                        class="img-fluid " width="150" height="150" style="border-radius: 50%;"> '+
         '                </span> '+
         '            </div> '+
