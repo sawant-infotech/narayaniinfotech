@@ -15,7 +15,7 @@ function loadData(__name__){
     }
 }
 function chekWebsite(){
-    if(false){
+    if(true){
         var body = '' +
         '<h1 style="height:100vh; width:100%; display:flex; justify-content: center; align-items:center;"><span>Temporary Down...</span></h1>';
         document.getElementById("myBody").innerHTML = body;
