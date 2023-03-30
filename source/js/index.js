@@ -664,8 +664,8 @@ function aboutCompanyDisplay(id){
             '        style="text-shadow: 0px 0px 2px black;">Narayani<span class="ms-1 me-1"></span> Infotech</span> is a technology solutions company that was founded in July 2016. We provide a wide '+
             '    range of technology services, including CCTV installation, sales of new and refurbished desktop/laptops '+
             '    and their accessories, antivirus software, AMC services for both government and non-government '+
-            '    organizations, bulk purchase of HDDs and SSDs, 24x7 technical support, gaming and share market '+
-            '    multi-screen setup building, office and college lab setups development and e-waste collection with '+
+            '    organizations, bulk purchase of HDD\'s and SSD\'s, 24x7 technical support, gaming and share market '+
+            '    multi-screen setup building, office and college lab setups development and E-waste collection with '+
             '    government licenses.'+
             '    <div class="mt-3 mb-2"></div>'+
             '    <span class="m-3"></span>Our team of experts is dedicated to delivering high-quality products and '+
@@ -679,14 +679,14 @@ function aboutCompanyDisplay(id){
             '    viruses, which is why we offer '+
             '    a variety of antivirus software options to help keep your computer safe. We also provide AMC services '+
             '    for both government and non-government organizations, ensuring that their technology is always working '+
-            '    at optimal levels. We also offer bulk purchase of HDDs and SSDs. We have a wide range of storage options '+
+            '    at optimal levels. We also offer bulk purchase of HDD\'s and SSD\'s. We have a wide range of storage options '+
             '    that are perfect for businesses, individuals, and organizations of all sizes. '+
             '    <div class="mt-3 mb-2"></div>'+
             '    <span class="m-3"></span>In addition to our core services, we also specialize in advanced services such '+
             '    as gaming and share '+
             '    market multi-screen setup building, office and college lab setups development. This allows our clients '+
             '    to experience the latest in technology and to have the tools they need to stay ahead of the curve. As a '+
-            '    responsible e-waste collector company, we have government licenses and committed to the responsible '+
+            '    responsible E-waste collector company, we have government licenses and committed to the responsible '+
             '    disposal of electronic waste. '+
             '    <div class="mt-3 mb-2"></div>'+
             '    <span class="m-3"></span>We understand the importance of having support when you need it, which is why '+
