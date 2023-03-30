@@ -223,7 +223,7 @@ function readComments() {
     commentData = [
         ["https://shubhams1401-sawant.github.io/author.jpeg",
             "shubham sawant",
-            "My experience with Narayani Infotech has been excellent. The companys team of skilledprofessionals provided top-notch service and helped me achieve all of mytechnology-related goals. Ihighly recommend Narayani Infotech to anyone in need of reliable and trustworthy ITsolutions.",
+            "My experience with Narayani Infotech has been excellent. The company's team of skilled professionals provided top-notch service and helped me achieve all of my technology-related goals. I highly recommend Narayani Infotech to anyone in need of reliable and trustworthy IT solutions.",
             5],
         ["", "Ranjit Patil", "I was blown away by the level of professionalism and expertise of the team at Narayani Infotech. From CCTV installation to antivirus solutions, they were able to handle all of my IT needs with ease. I will definitely be using their services again in the future and highly recommend them to anyone in need of top-quality IT support.", 4],
         ["", "Arun Kamble", "I was hesitant to use a new IT company, but I am so glad I took a chance on Narayani Infotech. Their team went above and beyond to help me resolve my technology issues and provided excellent customer service. I highly recommend Narayani Infotech to anyone in need of reliable IT solutions", 5],
