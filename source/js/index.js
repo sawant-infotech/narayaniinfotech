@@ -297,15 +297,15 @@ function serviceCardsDisplay(id){
         ['cctv-2417559_640.jpg', 'CCTV Installation', 'We offer top-quality CCTV systems and unparalleled maintenance services. Trust us to keep your property secure and protected. <i><b>"CCTV is like having a time machine, it records what happened in the past and helps to solve mysteries of the present."</b></i>'],
         ['computer-414059_640.jpg', 'Import / Second Hand Desktop', 'We provide the best quality second-hand desktop computers. Our selection is always up-to-date and ready for use.'],
         ['computer-3174729_640.jpg', 'Import / Second Hand Laptop', 'Get the best quality second-hand laptops at affordable prices at our business. Don\'t miss out on this great deal!'],
-        ['storage-870713_640.jpg', 'Hard Disk / SSD', 'Our business offers top-quality hard drives and SSDs at unbeatable prices. Upgrade your storage today! <br><i><b>Boost Your PC Today !</i></b>'],
+        ['storage-870713_640.jpg', 'Hard Disk / SSD', 'Our business offers top-quality hard drives and SSD\'s at unbeatable prices. Upgrade your storage today! <br><i><b>Boost Your PC Today !</i></b>'],
         ['share-market.jpg', 'Share Market Multi-Screen Setup', 'Get your share trading at our business. We offer top-quality equipment and expert assistance.'],
         ['gaming.jpg', 'Gaming Setups', 'Our business provides top-quality gaming setups for the ultimate gaming experience. Visit us to upgrade your setup today. <br><i>(Also Second Hand Setups Available.)</i>'],
-        ['fan-5694566_640.jpg', 'PC Bulding', 'Our business specializes in building custom PCs to meet the unique needs and preferences of each client. Contact us to get started today.'],
+        ['fan-5694566_640.jpg', 'PC Bulding', 'Our business specializes in building custom PC\'s to meet the unique needs and preferences of each client. Contact us to get started today.'],
         ['antivirus.jpg', 'Antivirus', 'Protect your PC with our high-quality antivirus software. Visit our business for all your antivirus needs. <i><b>"An antivirus is a necessary tool to safeguard your computer and its data from malicious software and hackers."</b></i>'],
         ['computers-332238_640.jpg', 'AMC Services', 'Our business offers AMC (Annual Maintenance Contract) services for both government and non-government clients. Trust us to keep your systems running smoothly.'],
         ['keyboard-mouse-printer-computer-accessories-500x500.jpg', 'Accessories', 'Our business offers a wide range of computer and laptop accessories, including LED/LCD monitors, keyboards, mouse, and more. Visit us to find the perfect accessories for your device.'],
         ['computers-332238_640.jpg', 'College Computer Lab Development', 'We specialize in developing computer labs for educational institutions. Contact us to set up a state-of-the-art lab for your college or school.'],
-        ['e-waste.jpg', 'E-Waste Collection', 'Our business is licensed to collect e-waste. Help the environment by properly disposing of your electronic waste with us.'],
+        ['e-waste.jpg', 'E-Waste Collection', 'Our business is licensed to collect E-waste. Help the environment by properly disposing of your electronic waste with us.'],
 
     ];
 
